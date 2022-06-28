@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá, Seja Bem - vindo ao meu perfil do GitHub!!!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Olá, Seja Bem - Vindo Ao Meu Perfil do GitHub!!!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rodrigo Souza Silva&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
