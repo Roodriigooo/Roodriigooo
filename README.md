@@ -15,6 +15,23 @@
 
 ---
 
+## 💼 Experiência Profissional
+
+**DKP Consultoria e Tecnologia**  
+📅 *Aproximadamente 1 ano*
+
+Atuação no desenvolvimento e suporte de soluções voltadas a sistemas **ERP**, com foco em **Progress 4GL / OpenEdge ABL**, participando de atividades como:
+
+- Desenvolvimento e manutenção de procedures (.p)
+- Implementação de regras de negócio
+- Criação de consultas, validações e rotinas de apoio
+- Apoio em ajustes e correções em sistemas existentes
+- Contato com ambientes reais de produção
+
+Experiência prática voltada à **lógica de negócio**, organização de código e aprendizado contínuo em ambientes corporativos.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
