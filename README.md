@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rodrigo%20Souza%20Silva&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Souza;From+São+Paulo,+SP+-+Brazil;Systems+Development+Student;Progress+4GL+%7C+OpenEdge+ABL+Developer;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Souza;From+São+Paulo,+SP+-+Brazil;Software+Developer;Progress+4GL+%7C+OpenEdge+ABL+Developer;Be+Welcome!)](https://git.io/typing-svg)
 
 ---
 
@@ -29,6 +29,22 @@ Atuação no desenvolvimento e suporte de soluções voltadas a sistemas **ERP**
 - Contato com ambientes reais de produção
 
 Experiência prática voltada à **lógica de negócio**, organização de código e aprendizado contínuo em ambientes corporativos.
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Pós-graduação em Engenharia de Software**  
+Universidade Anhanguera – São Paulo  
+📅 jan/2025 — dez/2025
+
+**MBA em Liderança Executiva de TI**  
+Universidade Anhanguera – São Paulo  
+📅 jan/2025 — dez/2025
+
+**Análise e Desenvolvimento de Sistemas (ADS)**  
+Universidade Santo Amaro (UNISA)  
+📅 out/2021 — jun/2024
 
 ---
 
