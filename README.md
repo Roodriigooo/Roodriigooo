@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rodrigo%20Souza%20Silva&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Souza;From+São+Paulo,+SP+-+Brazil;Software+Developer;Progress+4GL+%7C+OpenEdge+ABL+Developer;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Souza;From+São+Paulo,+SP+-+Brazil;Software+Developer+%28Junior%29;Progress+4GL+%7C+OpenEdge+ABL;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfbf,100:1f2933&height=80&text=Progress%204GL%20%7C%20ERP%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
@@ -21,28 +21,30 @@
   <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ERP%20Systems-1F2933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Logic-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Junior%20Developer-111827?style=for-the-badge"/>
 </p>
 
 ---
 
 ## ⭐ Destaques Profissionais
 
-- 💼 Experiência prática em **sistemas ERP**
-- 🧩 Especialização em **Progress 4GL / OpenEdge ABL**
-- 🏗️ Desenvolvimento de procedures orientadas à regra de negócio
+- 💼 Vivência prática em **ambiente ERP**
+- 🧩 Atuação com **Progress 4GL / OpenEdge ABL**
+- 🧪 Foco em **testes, validações e homologações**
+- 🔗 Testes de **APIs** em ambiente Progress
+- 📊 Apoio em análises e integrações com **Pentaho**
 - 🚀 Portfólio publicado e versionado
-- 🤖 Uso de IA como apoio estratégico ao desenvolvimento
 
 ---
 
 ## 🛠️ O que faço na prática
 
-- Estruturo procedures reutilizáveis em Progress 4GL
-- Implemento regras de negócio com foco em ERP
-- Trabalho com relacionamento entre entidades
-- Faço análises lógicas e correções em ambientes reais
-- Versiono e documento código para fácil manutenção
+- Testes funcionais e técnicos em sistemas ERP
+- Validação de regras de negócio
+- Testes de APIs utilizando Progress Developer Studio
+- Apoio em integrações entre sistemas
+- Análise e conferência de dados com Pentaho
+- Aprendizado contínuo com acompanhamento técnico
 
 ---
 
@@ -51,13 +53,18 @@
 **DKP Consultoria e Tecnologia**  
 📅 *Aproximadamente 1 ano*
 
-Atuação no desenvolvimento e suporte de soluções voltadas a sistemas **ERP**, com foco em **Progress 4GL / OpenEdge ABL**, participando de atividades como:
+Atuação como **Desenvolvedor Júnior**, com foco em **testes, validações e apoio técnico** em ambientes **ERP**, utilizando **Progress 4GL / OpenEdge ABL**.
 
-- Desenvolvimento e manutenção de procedures (.p)
-- Implementação de regras de negócio
-- Criação de consultas, validações e rotinas de apoio
-- Apoio em ajustes e correções em sistemas existentes
-- Contato com ambientes reais de produção
+Principais atividades:
+
+- Execução de testes funcionais e técnicos em rotinas do sistema
+- Validação de regras de negócio em ambiente Progress
+- Testes de **APIs** utilizando **Progress Developer Studio**
+- Apoio em integrações e conferência de dados
+- Utilização de **Pentaho** para análises, extrações e validações
+- Suporte no processo de homologação e ajustes de sistema
+
+Experiência voltada ao **aprendizado prático**, entendimento de sistemas corporativos e evolução contínua como desenvolvedor.
 
 ---
 
@@ -108,7 +115,7 @@ Universidade Santo Amaro (UNISA)
 ---
 
 <p align="center">
-  <b>📩 Aberto a oportunidades e conexões profissionais</b><br>
+  <b>📩 Desenvolvedor Júnior aberto a oportunidades e aprendizado contínuo</b><br>
   Fique à vontade para visitar meu portfólio ou entrar em contato pelo LinkedIn
 </p>
 
