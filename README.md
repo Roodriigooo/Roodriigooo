@@ -8,10 +8,41 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Souza;From+São+Paulo,+SP+-+Brazil;Software+Developer;Progress+4GL+%7C+OpenEdge+ABL+Developer;Be+Welcome!)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfbf,100:1f2933&height=80&text=Progress%204GL%20%7C%20ERP%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 ---
 
 ## 🌐 Portfólio Profissional
 👉 **https://rodrigo-progress-portfolio.netlify.app/**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ERP%20Systems-1F2933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Logic-111827?style=for-the-badge"/>
+</p>
+
+---
+
+## ⭐ Destaques Profissionais
+
+- 💼 Experiência prática em **sistemas ERP**
+- 🧩 Especialização em **Progress 4GL / OpenEdge ABL**
+- 🏗️ Desenvolvimento de procedures orientadas à regra de negócio
+- 🚀 Portfólio publicado e versionado
+- 🤖 Uso de IA como apoio estratégico ao desenvolvimento
+
+---
+
+## 🛠️ O que faço na prática
+
+- Estruturo procedures reutilizáveis em Progress 4GL
+- Implemento regras de negócio com foco em ERP
+- Trabalho com relacionamento entre entidades
+- Faço análises lógicas e correções em ambientes reais
+- Versiono e documento código para fácil manutenção
 
 ---
 
@@ -27,8 +58,6 @@ Atuação no desenvolvimento e suporte de soluções voltadas a sistemas **ERP**
 - Criação de consultas, validações e rotinas de apoio
 - Apoio em ajustes e correções em sistemas existentes
 - Contato com ambientes reais de produção
-
-Experiência prática voltada à **lógica de negócio**, organização de código e aprendizado contínuo em ambientes corporativos.
 
 ---
 
@@ -65,30 +94,6 @@ Universidade Santo Amaro (UNISA)
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
-</div>
-
----
-
-## 🧩 Back-end / ERP
-- **Progress 4GL / OpenEdge ABL**
-- Procedures (.p)
-- Lógica de negócio
-- Relacionamento de entidades
-- Consultas e validações
-- Estrutura voltada a sistemas ERP
-
----
-
 ## 🌐 Redes & Contato
 
 <div align="center">
@@ -99,6 +104,13 @@ Universidade Santo Amaro (UNISA)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://rodrigo-progress-portfolio.netlify.app/)
 
 </div>
+
+---
+
+<p align="center">
+  <b>📩 Aberto a oportunidades e conexões profissionais</b><br>
+  Fique à vontade para visitar meu portfólio ou entrar em contato pelo LinkedIn
+</p>
 
 ---
 
