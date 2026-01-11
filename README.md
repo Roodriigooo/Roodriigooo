@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   Olá, seja bem-vindo ao meu perfil do GitHub!
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45">
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45" />
 </h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Rodrigo%20Souza%20Silva&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
@@ -18,10 +18,10 @@
 👉 **https://rodrigo-progress-portfolio.netlify.app/**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ERP%20Systems-1F2933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Junior%20Developer-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ERP%20Systems-1F2933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Junior%20Developer-111827?style=for-the-badge" />
 </p>
 
 ---
@@ -59,9 +59,9 @@ Principais atividades:
 
 - Execução de testes funcionais e técnicos em rotinas do sistema
 - Validação de regras de negócio em ambiente Progress
-- Testes de **APIs** utilizando **Progress Developer Studio**
+- Testes de APIs utilizando Progress Developer Studio
 - Apoio em integrações e conferência de dados
-- Utilização de **Pentaho** para análises, extrações e validações
+- Utilização de Pentaho para análises, extrações e validações
 - Suporte no processo de homologação e ajustes de sistema
 
 Experiência voltada ao **aprendizado prático**, entendimento de sistemas corporativos e evolução contínua como desenvolvedor.
@@ -87,17 +87,17 @@ Universidade Santo Amaro (UNISA)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=10&theme=great-gatsby"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=10&theme=great-gatsby" />
 </div>
 
-<br>
+<br/>
 
 ## 🔥 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=gotham&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=gotham&hide_border=true&area=true" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo&theme=dracula&row=2&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -116,20 +116,25 @@ Universidade Santo Amaro (UNISA)
 ---
 
 <p align="center">
-  <b>📩 Desenvolvedor Júnior aberto a oportunidades e aprendizado contínuo</b><br>
+  <b>📩 Desenvolvedor Júnior aberto a oportunidades e aprendizado contínuo</b><br/>
   Fique à vontade para visitar meu portfólio ou entrar em contato pelo LinkedIn
 </p>
 
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/Roodriigooo/Roodriigooo/output/github-contribution-grid-snake.svg)
+
+<!-- Opção 1 (padrão): branch output -->
+<img src="https://raw.githubusercontent.com/Roodriigooo/Roodriigooo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- Opção 2 (fallback): se a opção acima falhar, use esta -->
+<!-- <img src="https://github.com/Roodriigooo/Roodriigooo/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 
 ---
 
 <div align="center">
-  <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/Roodriigooo/count.svg"/>
+  <p><b>Visitors</b></p>
+  <img src="https://komarev.com/ghpvc/?username=Roodriigooo&style=for-the-badge" alt="Profile views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
