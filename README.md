@@ -15,126 +15,146 @@
 ---
 
 ## 🌐 Portfólio Profissional
-👉 **https://rodrigo-progress-portfolio.netlify.app/**
+👉 **[rodrigo-progress-portfolio.netlify.app](https://rodrigo-progress-portfolio.netlify.app/)**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ERP%20Systems-1F2933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Junior%20Developer-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge&logo=progress&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge&logo=progress&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP%20Systems-1F2933?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Junior%20Developer-00bfbf?style=for-the-badge&logo=code&logoColor=white" />
 </p>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor Júnior especializado em **Progress 4GL / OpenEdge ABL** com experiência prática em ambientes **ERP corporativos**. Apaixonado por tecnologia, sempre em busca de aprendizado contínuo e crescimento profissional.
 
 ---
 
 ## ⭐ Destaques Profissionais
 
-- 💼 Vivência prática em **ambiente ERP**
-- 🧩 Atuação com **Progress 4GL / OpenEdge ABL**
-- 🧪 Foco em **testes, validações e homologações**
-- 🔗 Testes de **APIs** em ambiente Progress
-- 📊 Apoio em análises e integrações com **Pentaho**
-- 🚀 Portfólio publicado e versionado
+- 💼 Experiência sólida em **ambiente ERP**
+- 🧩 Desenvolvimento com **Progress 4GL / OpenEdge ABL**
+- 🧪 Especialização em **testes, validações e homologações**
+- 🔗 Testes de **APIs REST** em ambiente Progress
+- 📊 Análise de dados e integrações com **Pentaho**
+- 🚀 Portfólio profissional publicado e versionado
 
 ---
 
-## 🛠️ O que faço na prática
+## 🛠️ Stack & Ferramentas
 
-- Testes funcionais e técnicos em sistemas ERP
-- Validação de regras de negócio
-- Testes de APIs utilizando Progress Developer Studio
-- Apoio em integrações entre sistemas
-- Análise e conferência de dados com Pentaho
-- Aprendizado contínuo com acompanhamento técnico
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge&logo=progress&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge&logo=progress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho-FF6600?style=for-the-badge&logo=pentaho&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Experiência Profissional
 
-**DKP Consultoria e Tecnologia**  
+### **DKP Consultoria e Tecnologia**
+**Desenvolvedor Progress 4GL | Júnior**  
 📅 *Aproximadamente 1 ano*
 
-Atuação como **Desenvolvedor Júnior**, com foco em **testes, validações e apoio técnico** em ambientes **ERP**, utilizando **Progress 4GL / OpenEdge ABL**.
+Atuação em **desenvolvimento, testes e validações** de sistemas **ERP** utilizando **Progress 4GL / OpenEdge ABL**.
 
-Principais atividades:
+**Principais responsabilidades:**
 
-- Execução de testes funcionais e técnicos em rotinas do sistema
-- Validação de regras de negócio em ambiente Progress
-- Testes de APIs utilizando Progress Developer Studio
-- Apoio em integrações e conferência de dados
-- Utilização de Pentaho para análises, extrações e validações
-- Suporte no processo de homologação e ajustes de sistema
-
-Experiência voltada ao **aprendizado prático**, entendimento de sistemas corporativos e evolução contínua como desenvolvedor.
+- ✅ Desenvolvimento e manutenção de rotinas em Progress 4GL
+- ✅ Execução de testes funcionais e técnicos
+- ✅ Validação de regras de negócio
+- ✅ Testes de APIs REST utilizando Progress Developer Studio
+- ✅ Apoio em integrações entre sistemas
+- ✅ Análise e conferência de dados com Pentaho
+- ✅ Suporte em processos de homologação
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-**Pós-graduação em Engenharia de Software**  
+**📚 Pós-graduação em Engenharia de Software**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025
+📅 jan/2025 — dez/2025 *(em andamento)*
 
-**MBA em Liderança Executiva de TI**  
+**📚 MBA em Liderança Executiva de TI**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025
+📅 jan/2025 — dez/2025 *(em andamento)*
 
-**Análise e Desenvolvimento de Sistemas (ADS)**  
+**🎓 Análise e Desenvolvimento de Sistemas (ADS)**  
 Universidade Santo Amaro (UNISA)  
-📅 out/2021 — jun/2024
+📅 out/2021 — jun/2024 *(concluído)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=10&theme=great-gatsby" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=10&theme=great-gatsby&border_radius=10" />
 </div>
 
-<br/>
+---
 
-## 🔥 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=gotham&hide_border=true&area=true" />
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=gotham&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🌐 Redes & Contato
+## 🌐 Redes Sociais & Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-silva-developed/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roodriigo_silva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511948623779)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://rodrigo-progress-portfolio.netlify.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00bfbf?style=for-the-badge&logo=netlify&logoColor=white)](https://rodrigo-progress-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.dev@example.com)
 
 </div>
-
----
-
-<p align="center">
-  <b>📩 Desenvolvedor Júnior aberto a oportunidades e aprendizado contínuo</b><br/>
-  Fique à vontade para visitar meu portfólio ou entrar em contato pelo LinkedIn
-</p>
 
 ---
 
 ## 🐍 Snake Animation
 
-<!-- Opção 1 (padrão): branch output -->
-<img src="https://raw.githubusercontent.com/Roodriigooo/Roodriigooo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Roodriigooo/Roodriigooo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-<!-- Opção 2 (fallback): se a opção acima falhar, use esta -->
-<!-- <img src="https://github.com/Roodriigooo/Roodriigooo/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roodriigooo&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
 ---
 
 <div align="center">
-  <p><b>Visitors</b></p>
-  <img src="https://komarev.com/ghpvc/?username=Roodriigooo&style=for-the-badge" alt="Profile views" />
+  
+### 💼 Desenvolvedor Júnior | Aberto a Oportunidades
+
+**"Transformando linhas de código em soluções corporativas"**
+
+*Fique à vontade para visitar meu portfólio ou conectar-se comigo no LinkedIn!*
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-
