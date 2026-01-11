@@ -43,7 +43,7 @@ Desenvolvedor Júnior especializado em **Progress 4GL / OpenEdge ABL** com exper
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stack e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge&logo=progress&logoColor=white" />
@@ -58,37 +58,37 @@ Desenvolvedor Júnior especializado em **Progress 4GL / OpenEdge ABL** com exper
 
 ## 💼 Experiência Profissional
 
-### **DKP Consultoria e Tecnologia**
-**Desenvolvedor Progress 4GL | Júnior**  
+### Desenvolvedor Progress 4GL | Júnior
+**DKP Consultoria e Tecnologia**  
 📅 *Aproximadamente 1 ano*
 
 Atuação em **desenvolvimento, testes e validações** de sistemas **ERP** utilizando **Progress 4GL / OpenEdge ABL**.
 
 **Principais responsabilidades:**
 
-- ✅ Desenvolvimento e manutenção de rotinas em Progress 4GL
-- ✅ Execução de testes funcionais e técnicos
-- ✅ Validação de regras de negócio
-- ✅ Testes de APIs REST utilizando Progress Developer Studio
-- ✅ Apoio em integrações entre sistemas
-- ✅ Análise e conferência de dados com Pentaho
-- ✅ Suporte em processos de homologação
+- Desenvolvimento e manutenção de rotinas em Progress 4GL
+- Execução de testes funcionais e técnicos
+- Validação de regras de negócio
+- Testes de APIs REST utilizando Progress Developer Studio
+- Apoio em integrações entre sistemas
+- Análise e conferência de dados com Pentaho
+- Suporte em processos de homologação
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-**📚 Pós-graduação em Engenharia de Software**  
+**Pós-graduação em Engenharia de Software**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025 *(em andamento)*
+📅 jan/2025 — dez/2025 | *em andamento*
 
-**📚 MBA em Liderança Executiva de TI**  
+**MBA em Liderança Executiva de TI**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025 *(em andamento)*
+📅 jan/2025 — dez/2025 | *em andamento*
 
-**🎓 Análise e Desenvolvimento de Sistemas (ADS)**  
+**Análise e Desenvolvimento de Sistemas (ADS)**  
 Universidade Santo Amaro (UNISA)  
-📅 out/2021 — jun/2024 *(concluído)*
+📅 out/2021 — jun/2024 | *concluído*
 
 ---
 
@@ -117,7 +117,7 @@ Universidade Santo Amaro (UNISA)
 
 ---
 
-## 🌐 Redes Sociais & Contato
+## 🌐 Redes Sociais e Contato
 
 <div align="center">
 
@@ -125,7 +125,7 @@ Universidade Santo Amaro (UNISA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roodriigo_silva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511948623779)
 [![Portfólio](https://img.shields.io/badge/Portfólio-00bfbf?style=for-the-badge&logo=netlify&logoColor=white)](https://rodrigo-progress-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.dev@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 </div>
 
