@@ -34,11 +34,11 @@ Desenvolvedor Júnior especializado em **Progress 4GL / OpenEdge ABL** com exper
 
 ## ⭐ Destaques Profissionais
 
-- 💼 Experiência sólida em **ambiente ERP**
-- 🧩 Desenvolvimento com **Progress 4GL / OpenEdge ABL**
-- 🧪 Especialização em **testes, validações e homologações**
-- 🔗 Testes de **APIs REST** em ambiente Progress
-- 📊 Análise de dados e integrações com **Pentaho**
+- 💼 Experiência sólida em ambiente ERP
+- 🧩 Desenvolvimento com Progress 4GL / OpenEdge ABL
+- 🧪 Especialização em testes, validações e homologações
+- 🔗 Testes de APIs REST em ambiente Progress
+- 📊 Análise de dados e integrações com Pentaho
 - 🚀 Portfólio profissional publicado e versionado
 
 ---
@@ -58,11 +58,11 @@ Desenvolvedor Júnior especializado em **Progress 4GL / OpenEdge ABL** com exper
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Progress 4GL | Júnior
+### Desenvolvedor Progress 4GL - Júnior
 **DKP Consultoria e Tecnologia**  
-📅 *Aproximadamente 1 ano*
+📅 Aproximadamente 1 ano
 
-Atuação em **desenvolvimento, testes e validações** de sistemas **ERP** utilizando **Progress 4GL / OpenEdge ABL**.
+Atuação em desenvolvimento, testes e validações de sistemas ERP utilizando Progress 4GL / OpenEdge ABL.
 
 **Principais responsabilidades:**
 
@@ -80,15 +80,15 @@ Atuação em **desenvolvimento, testes e validações** de sistemas **ERP** util
 
 **Pós-graduação em Engenharia de Software**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025 | *em andamento*
+📅 jan/2025 — dez/2025 | em andamento
 
 **MBA em Liderança Executiva de TI**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025 | *em andamento*
+📅 jan/2025 — dez/2025 | em andamento
 
-**Análise e Desenvolvimento de Sistemas (ADS)**  
+**Análise e Desenvolvimento de Sistemas**  
 Universidade Santo Amaro (UNISA)  
-📅 out/2021 — jun/2024 | *concluído*
+📅 out/2021 — jun/2024 | concluído
 
 ---
 
@@ -148,12 +148,13 @@ Universidade Santo Amaro (UNISA)
 ---
 
 <div align="center">
-  
+
 ### 💼 Desenvolvedor Júnior | Aberto a Oportunidades
 
 **"Transformando linhas de código em soluções corporativas"**
 
-*Fique à vontade para visitar meu portfólio ou conectar-se comigo no LinkedIn!*
+Fique à vontade para visitar meu portfólio ou conectar-se comigo no LinkedIn!
 
 </div>
 
+<img width="100%" src="https://capsule-
