@@ -157,4 +157,3 @@ Universidade Santo Amaro (UNISA)
 
 </div>
 
-<img width="100%" src="https://capsule-
