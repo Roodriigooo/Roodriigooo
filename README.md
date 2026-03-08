@@ -276,7 +276,7 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 
 ### 💼 Software Developer | CEO & Founder at DFT Corporation | Open to Opportunities
 
-**"Minha base começou nos sistemas corporativos. Hoje, evoluo criando soluções web, backend, mobile e projetos digitais com identidade própria."**
+**Buscando oportunidades para atuar com desenvolvimento de software, contribuindo com dedicação, evolução contínua e visão prática na criação de soluções web, backend, mobile e digitais.**
 
 Fique à vontade para conhecer meu site, explorar meus projetos e se conectar comigo no LinkedIn.
 
