@@ -40,19 +40,19 @@
 
 ## 👨‍💻 Sobre Mim
 
-Minha jornada na tecnologia começou com Progress 4GL / OpenEdge ABL, linguagem que foi minha porta de entrada no desenvolvimento de software e nos sistemas corporativos.
+Minha jornada na tecnologia começou com **Progress 4GL / OpenEdge ABL**, linguagem que foi minha porta de entrada no desenvolvimento de software e nos sistemas corporativos.
 
-Foi através dela que comecei a construir minha base em lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes ERP. Essa experiência foi importante para minha formação e para a forma como passei a enxergar software: com visão prática, organização e foco em solução.
+Foi através dela que comecei a construir minha base em **lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes ERP**. Essa experiência foi importante para minha formação e para a forma como passei a enxergar software: com visão prática, organização e foco em solução.
 
-Também atuei por cerca de 1 ano na DKP Consultoria e Tecnologia, onde tive uma experiência profissional importante para consolidar uma base inicial no ambiente corporativo de tecnologia. Nesse período, tive contato com sistemas ERP, testes, homologações, integrações e análise de dados, participando de rotinas que contribuíram para meu desenvolvimento técnico e para minha compreensão de cenários reais de negócio.
+Também atuei por cerca de **1 ano na DKP Consultoria e Tecnologia**, onde tive uma experiência profissional importante para consolidar minha base inicial no ambiente corporativo de tecnologia. Nesse período, tive contato com sistemas ERP, testes, homologações, integrações e análise de dados, participando de rotinas que contribuíram para meu desenvolvimento técnico e para minha compreensão de cenários reais de negócio.
 
-Foi uma vivência muito relevante para minha evolução, principalmente por ter me proporcionado aprendizado prático e contato com demandas reais, mas entendo essa etapa como a construção de uma base sólida inicial, e não como uma trajetória de longa bagagem ou senioridade.
+Foi uma vivência muito relevante para minha evolução, principalmente por ter me proporcionado aprendizado prático e contato com demandas reais.
 
-Atualmente, estou ampliando minha atuação para além do universo ERP, com foco em desenvolvimento web, frontend, backend e aplicações mobile, buscando evolução contínua, mais experiência prática e novos desafios na construção de soluções digitais modernas.
+Atualmente, estou ampliando minha atuação para além do universo ERP, com foco em **desenvolvimento web, frontend, backend e aplicações mobile**, buscando evolução contínua, mais experiência prática e novos desafios na construção de soluções digitais modernas.
 
-Também sou CEO e fundador da DFT Corporation, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca no mercado e transformar cada projeto em uma oportunidade real de aprimorar minhas técnicas e evoluir como profissional.
+Também sou **CEO e fundador da DFT Corporation**, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca no mercado e transformar cada projeto em uma oportunidade real de aprimorar minhas técnicas e evoluir como profissional.
 
-Sou movido por aprendizado contínuo, experiência prática e pela criação de soluções que unem tecnologia, organização, inovação e boa experiência do usuário.
+Sou movido por aprendizado contínuo, experiência prática e pela criação de soluções que unem **tecnologia, organização, inovação e boa experiência do usuário**.
 
 ---
 
@@ -159,6 +159,17 @@ Através dela, venho fortalecendo minha experiência prática com desenvolviment
 
 ---
 
+## 🎯 O que eu posso entregar
+
+- Desenvolvimento de interfaces web modernas
+- Criação de soluções digitais sob demanda
+- Integrações com APIs e serviços
+- Estruturação de projetos frontend e backend
+- Evolução e manutenção de aplicações
+- Organização técnica com foco em usabilidade e resultado
+
+---
+
 ## 🎓 Formação Acadêmica
 
 **Pós-graduação em Engenharia de Software**  
@@ -175,6 +186,17 @@ Universidade Santo Amaro (UNISA)
 
 ---
 
+## 📚 Estudos e Aperfeiçoamento
+
+- Engenharia de Software
+- Liderança Executiva de TI
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+- APIs e Integrações
+- Arquitetura de Software
+
+---
+
 ## 🛣️ Roadmap Atual
 
 - [x] Consolidar base em ERP com Progress 4GL
@@ -184,6 +206,14 @@ Universidade Santo Amaro (UNISA)
 - [ ] Fortalecer projetos web, backend e mobile
 - [ ] Expandir portfólio com aplicações reais
 - [ ] Conquistar novas oportunidades na área de tecnologia
+
+---
+
+## 📍 Disponibilidade
+
+- Aberto a oportunidades na área de tecnologia
+- Interesse em desenvolvimento web, backend, mobile e software
+- Disponível para projetos freelance e oportunidades profissionais
 
 ---
 
