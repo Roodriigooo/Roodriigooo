@@ -6,30 +6,30 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:1f2933&height=180&section=header&text=Rodrigo%20Souza%20Silva&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rodrigo+Souza;From+São+Paulo,+SP+-+Brazil;Software+Developer;Frontend+%7C+Backend+%7C+Mobile;Progress+4GL+was+my+starting+point;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=28&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Rodrigo+Souza+Silva;Desenvolvedor+de+Software;Frontend+%7C+Backend+%7C+Mobile;CEO+e+Fundador+da+DFT+Corporation;Criando+solu%C3%A7%C3%B5es+digitais+para+o+mundo+real)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfbf,100:111827&height=80&text=Software%20Developer%20%7C%20Web%20%7C%20Mobile%20%7C%20ERP&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfbf,100:111827&height=80&text=Software%20Developer%20%7C%20Web%20%7C%20Mobile%20%7C%20Digital%20Solutions&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00bfbf?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foco-Web%20%7C%20Mobile%20%7C%20Software-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Base-Progress%204GL%20%7C%20ERP-003A8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Atuação-CEO%20%7C%20Founder%20%7C%20Freelancer-003A8F?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Meu Site / Empresa
+## 🌐 Minha Marca / Meu Site
 👉 **[DFT Corporation](https://dft-corporation.netlify.app/)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/DFT%20Corporation-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEO%20%26%20Founder-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Mobile%20Apps-1d4ed8?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-06b6d4?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-0f766e?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge&logo=progress&logoColor=white" />
 </p>
 
 ---
@@ -38,13 +38,13 @@
 
 Sou desenvolvedor de software e minha jornada na tecnologia começou com **Progress 4GL / OpenEdge ABL**, linguagem que foi minha porta de entrada no desenvolvimento e nos sistemas corporativos.
 
-Foi através dela que construí minha base em lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes **ERP**. Essa experiência teve papel fundamental na minha formação profissional e na maneira como enxergo o desenvolvimento de software hoje.
+Foi através dela que construí minha base em **lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes ERP**. Essa experiência teve um papel importante na minha formação profissional e na forma como enxergo software hoje: com visão prática, organização e foco em solução.
 
-Atualmente, estou expandindo minha atuação para além do universo ERP, com foco em **desenvolvimento web, frontend, backend e aplicações mobile**, buscando evoluir continuamente e ampliar minha experiência prática na criação de soluções digitais.
+Atualmente, estou ampliando minha atuação para além do universo ERP, com foco em **desenvolvimento web, frontend, backend e aplicações mobile**, buscando evolução contínua e mais experiência prática na construção de soluções digitais modernas.
 
-Também sou **CEO e fundador da DFT Corporation**, iniciativa própria criada para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca e transformar conhecimento em soluções reais para negócios e projetos digitais.
+Também sou **CEO e fundador da DFT Corporation**, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca no mercado e, principalmente, transformar cada projeto em uma oportunidade real de aprimorar minhas técnicas e evoluir como profissional.
 
-Sou movido por aprendizado contínuo, evolução prática e pela criação de soluções que unem tecnologia, organização, inovação e experiência do usuário.
+Sou movido por aprendizado contínuo, experiência prática e pela criação de soluções que unem **tecnologia, organização, inovação e boa experiência do usuário**.
 
 ---
 
@@ -52,22 +52,22 @@ Sou movido por aprendizado contínuo, evolução prática e pela criação de so
 
 - 💻 Evoluindo em desenvolvimento **web, backend e mobile**
 - 🌐 Criando projetos e soluções digitais pela **DFT Corporation**
-- ⚙️ Desenvolvendo aplicações modernas e funcionais
+- 🧠 Aprimorando minhas técnicas com projetos reais
 - 🔗 Explorando integrações, APIs e arquitetura de sistemas
-- 📚 Aprendendo novas tecnologias sem esquecer minha base em ERP
-- 🚀 Fortalecendo meu portfólio e minha presença profissional
+- ⚙️ Desenvolvendo aplicações modernas, funcionais e escaláveis
+- 🚀 Fortalecendo meu portfólio, minha marca e minha presença profissional
 
 ---
 
 ## ⭐ Minha Trajetória em Tecnologia
 
-- 🧩 Início da carreira com **Progress 4GL / OpenEdge ABL**
-- 💼 Experiência com sistemas corporativos e ambiente ERP
+- 🧩 Início da jornada com **Progress 4GL / OpenEdge ABL**
+- 💼 Base construída em sistemas corporativos e ambiente ERP
 - 🧪 Atuação com testes, validações e homologações
-- 🔗 Testes de APIs REST e suporte a integrações
+- 🔗 Testes de APIs REST e apoio em integrações
 - 📊 Análise e conferência de dados com Pentaho
-- 🌐 Expansão para desenvolvimento web e mobile
-- 🚀 Construção de projetos próprios e presença digital profissional
+- 🌐 Expansão para desenvolvimento web, backend e mobile
+- 🚀 Criação de projetos próprios e fortalecimento da minha atuação freelancer
 
 ---
 
@@ -80,7 +80,7 @@ Sou movido por aprendizado contínuo, evolução prática e pela criação de so
 <p align="center">
   <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge&logo=progress&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge&logo=progress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pentaho-FF6600?style=for-the-badge&logo=pentaho&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho-FF6600?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -89,31 +89,32 @@ Sou movido por aprendizado contínuo, evolução prática e pela criação de so
 ## 🧠 Áreas de Interesse
 
 - Desenvolvimento Web
+- Desenvolvimento Backend
 - Desenvolvimento Mobile
 - APIs e Integrações
-- Sistemas ERP
 - Arquitetura de Software
 - Interfaces Modernas
 - Soluções Digitais para Negócios
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Atuação Profissional
 
-### Desenvolvedor / Analista com base em ERP
-**Experiência inicial com Progress 4GL / OpenEdge ABL**
+### CEO & Founder — DFT Corporation
+**Marca própria de atuação freelancer e desenvolvimento de soluções digitais**
 
-Atuação em desenvolvimento, testes e validações de sistemas corporativos, com foco em lógica de negócio, homologações, integrações e apoio técnico em ambiente ERP.
+Criei a **DFT Corporation** como minha iniciativa pessoal para desenvolver projetos, atender pequenos negócios, criar soluções sob demanda e transformar conhecimento técnico em entregas reais.
 
-**Principais responsabilidades:**
+Através dela, venho fortalecendo minha experiência prática com desenvolvimento, organização de projetos, identidade profissional e construção de soluções digitais com foco em resultado.
 
-- Desenvolvimento e manutenção de rotinas
-- Execução de testes funcionais e técnicos
-- Validação de regras de negócio
-- Testes de APIs REST
-- Apoio em integrações entre sistemas
-- Análise e conferência de dados com Pentaho
-- Suporte em processos de homologação
+**Principais frentes de atuação:**
+
+- Desenvolvimento de sites e aplicações web
+- Criação de soluções digitais sob demanda
+- Estruturação de projetos próprios
+- Evolução prática em frontend, backend e mobile
+- Aplicação de boas práticas de organização e usabilidade
+- Fortalecimento de marca, portfólio e presença digital
 
 ---
 
@@ -135,7 +136,7 @@ Universidade Santo Amaro (UNISA)
 
 ## 📌 Objetivo Profissional
 
-Busco oportunidades para atuar com desenvolvimento de software, contribuindo com dedicação, visão prática, evolução constante e vontade de aprender, enquanto amplio minha experiência em projetos web, mobile, backend e soluções digitais.
+Busco oportunidades para atuar com desenvolvimento de software, contribuindo com dedicação, visão prática, evolução constante e vontade de aprender, enquanto amplio minha experiência em projetos web, backend, mobile e soluções digitais.
 
 ---
 
@@ -195,11 +196,11 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 
 <div align="center">
 
-### 💼 Software Developer | Freelancer | Aberto a Oportunidades
+### 💼 Software Developer | CEO & Founder at DFT Corporation | Open to Opportunities
 
-**"Minha base começou no ERP com Progress 4GL. Hoje, evoluo criando soluções web, mobile e digitais para o mundo real."**
+**"Minha base começou nos sistemas corporativos. Hoje, evoluo criando soluções web, backend, mobile e projetos digitais com identidade própria."**
 
-Fique à vontade para conhecer meu site, meus projetos e conectar-se comigo no LinkedIn.
+Fique à vontade para conhecer meu site, explorar meus projetos e se conectar comigo no LinkedIn.
 
 </div>
 
