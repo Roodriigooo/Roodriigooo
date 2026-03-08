@@ -156,10 +156,10 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Destaques do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roodriigooo&theme=tokyonight" />
 </div>
 
 ---
