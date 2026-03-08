@@ -142,8 +142,7 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo" />
 </div>
 
 ---
@@ -158,9 +157,9 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo&theme=onestar&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
