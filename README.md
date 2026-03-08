@@ -119,8 +119,7 @@ Universidade Santo Amaro (UNISA)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=10&theme=great-gatsby&border_radius=10" />
+  <img src="https://github.com/Roodriigooo/Roodriigooo/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 </div>
 
 ---
@@ -128,7 +127,7 @@ Universidade Santo Amaro (UNISA)
 ## 🔥 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=gotham&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
