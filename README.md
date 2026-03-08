@@ -15,7 +15,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00bfbf?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foco-Web%20%7C%20Mobile%20%7C%20Software-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Atuação-CEO%20%7C%20Founder%20%7C%20Freelancer-003A8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-CEO%20%7C%20Founder%20%7C%20Freelancer-003A8F?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bfbf&text=Building%20real%20solutions%20with%20code&height=60&fontSize=28&desc=Web%20%7C%20Backend%20%7C%20Mobile%20%7C%20ERP&descAlignY=75&descSize=16" />
 </p>
 
 ---
@@ -40,9 +44,11 @@ Sou desenvolvedor de software e minha jornada na tecnologia começou com **Progr
 
 Foi através dela que construí minha base em **lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes ERP**. Essa experiência teve um papel importante na minha formação profissional e na forma como enxergo software hoje: com visão prática, organização e foco em solução.
 
+Também atuei profissionalmente na **DKP Consultoria e Tecnologia**, onde desenvolvi experiência prática com sistemas corporativos, testes, homologações, integrações e análise de dados em ambiente ERP, fortalecendo ainda mais minha base técnica e meu contato com cenários reais de negócio.
+
 Atualmente, estou ampliando minha atuação para além do universo ERP, com foco em **desenvolvimento web, frontend, backend e aplicações mobile**, buscando evolução contínua e mais experiência prática na construção de soluções digitais modernas.
 
-Também sou **CEO e fundador da DFT Corporation**, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca no mercado e, principalmente, transformar cada projeto em uma oportunidade real de aprimorar minhas técnicas e evoluir como profissional.
+Também sou **CEO e fundador da DFT Corporation**, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca no mercado e transformar cada projeto em uma oportunidade real de aprimorar minhas técnicas e evoluir como profissional.
 
 Sou movido por aprendizado contínuo, experiência prática e pela criação de soluções que unem **tecnologia, organização, inovação e boa experiência do usuário**.
 
@@ -50,19 +56,28 @@ Sou movido por aprendizado contínuo, experiência prática e pela criação de 
 
 ## 🚀 Momento Atual
 
-- 💻 Evoluindo em desenvolvimento **web, backend e mobile**
-- 🌐 Criando projetos e soluções digitais pela **DFT Corporation**
-- 🧠 Aprimorando minhas técnicas com projetos reais
+- 💻 Atuando no desenvolvimento de soluções **web, backend e mobile**
+- 🌐 Criando projetos e soluções digitais através da **DFT Corporation**
+- 🧠 Aprimorando minhas técnicas com projetos reais e desafios práticos
 - 🔗 Explorando integrações, APIs e arquitetura de sistemas
 - ⚙️ Desenvolvendo aplicações modernas, funcionais e escaláveis
 - 🚀 Fortalecendo meu portfólio, minha marca e minha presença profissional
 
 ---
 
+## 🚧 Projetos em Foco
+
+- 🌐 Desenvolvimento e evolução de soluções digitais pela **DFT Corporation**
+- 📱 Estudos e prática com aplicações **mobile**
+- ⚙️ Construção de projetos com foco em **frontend, backend e integrações**
+- 🚀 Fortalecimento de portfólio, presença profissional e marca pessoal
+
+---
+
 ## ⭐ Minha Trajetória em Tecnologia
 
 - 🧩 Início da jornada com **Progress 4GL / OpenEdge ABL**
-- 💼 Base construída em sistemas corporativos e ambiente ERP
+- 💼 Experiência profissional na **DKP Consultoria e Tecnologia**
 - 🧪 Atuação com testes, validações e homologações
 - 🔗 Testes de APIs REST e apoio em integrações
 - 📊 Análise e conferência de dados com Pentaho
@@ -92,13 +107,37 @@ Sou movido por aprendizado contínuo, experiência prática e pela criação de 
 - Desenvolvimento Backend
 - Desenvolvimento Mobile
 - APIs e Integrações
+- Sistemas ERP
 - Arquitetura de Software
 - Interfaces Modernas
 - Soluções Digitais para Negócios
 
 ---
 
-## 💼 Atuação Profissional
+## 💼 Experiência Profissional
+
+### Desenvolvedor Progress 4GL / Analista de Sistemas Júnior  
+**DKP Consultoria e Tecnologia**  
+📅 Aproximadamente 1 ano
+
+Experiência profissional com desenvolvimento e suporte a sistemas corporativos utilizando **Progress 4GL / OpenEdge ABL**, com atuação em testes, validações, homologações, integrações e análise de dados em ambiente **ERP**.
+
+Durante essa experiência, desenvolvi uma base prática importante em lógica de negócio, processos corporativos, análise técnica e apoio na sustentação de soluções utilizadas no dia a dia empresarial.
+
+**Principais responsabilidades:**
+
+- Desenvolvimento e manutenção de rotinas em **Progress 4GL / OpenEdge ABL**
+- Execução de testes funcionais e técnicos
+- Validação de regras de negócio
+- Testes de APIs REST
+- Apoio em integrações entre sistemas
+- Análise e conferência de dados com **Pentaho**
+- Suporte em homologações e validações sistêmicas
+- Atuação em ambiente ERP com foco em processos corporativos
+
+---
+
+## 💼 Atuação Atual
 
 ### CEO & Founder — DFT Corporation
 **Marca própria de atuação freelancer e desenvolvimento de soluções digitais**
@@ -134,6 +173,18 @@ Universidade Santo Amaro (UNISA)
 
 ---
 
+## 🛣️ Roadmap Atual
+
+- [x] Consolidar base em ERP com Progress 4GL
+- [x] Atuar profissionalmente na DKP Consultoria e Tecnologia
+- [x] Criar presença profissional no GitHub
+- [x] Estruturar marca própria com a DFT Corporation
+- [ ] Fortalecer projetos web, backend e mobile
+- [ ] Expandir portfólio com aplicações reais
+- [ ] Conquistar novas oportunidades na área de tecnologia
+
+---
+
 ## 📌 Objetivo Profissional
 
 Busco oportunidades para atuar com desenvolvimento de software, contribuindo com dedicação, visão prática, evolução constante e vontade de aprender, enquanto amplio minha experiência em projetos web, backend, mobile e soluções digitais.
@@ -162,6 +213,33 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roodriigooo&theme=tokyonight" />
 </div>
+
+---
+
+## 📈 Resumo de Performance
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roodriigooo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roodriigooo&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roodriigooo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roodriigooo&theme=tokyonight&utcOffset=-3" />
+</div>
+
+---
+
+## 📬 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-silva-developed/">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dft-corporation.netlify.app/">
+    <img src="https://img.shields.io/badge/Visitar%20site%20da%20DFT-00bfbf?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
