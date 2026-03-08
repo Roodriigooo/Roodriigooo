@@ -12,6 +12,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfbf,100:111827&height=80&text=Software%20Developer%20%7C%20Web%20%7C%20Mobile%20%7C%20ERP&fontSize=26&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00bfbf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Web%20%7C%20Mobile%20%7C%20Software-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Base-Progress%204GL%20%7C%20ERP-003A8F?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🌐 Meu Site / Empresa
@@ -30,13 +36,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor de software e minha jornada na tecnologia começou com Progress 4GL / OpenEdge ABL, linguagem que foi minha porta de entrada no desenvolvimento e nos sistemas corporativos.
+Sou desenvolvedor de software e minha jornada na tecnologia começou com **Progress 4GL / OpenEdge ABL**, linguagem que foi minha porta de entrada no desenvolvimento e nos sistemas corporativos.
 
-Foi através dela que comecei a construí minha base em lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes ERP. Essa experiência teve papel fundamental na minha formação profissional e na maneira como enxergo o desenvolvimento de software hoje.
+Foi através dela que construí minha base em lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes **ERP**. Essa experiência teve papel fundamental na minha formação profissional e na maneira como enxergo o desenvolvimento de software hoje.
 
-Atualmente, estou expandindo minha atuação para além do universo ERP, com foco em desenvolvimento web, frontend, backend e aplicações mobile, buscando evoluir continuamente e ampliar minha experiência prática na criação de soluções digitais.
+Atualmente, estou expandindo minha atuação para além do universo ERP, com foco em **desenvolvimento web, frontend, backend e aplicações mobile**, buscando evoluir continuamente e ampliar minha experiência prática na criação de soluções digitais.
 
-Também sou CEO e fundador da DFT Corporation, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer e, ao mesmo tempo, aprimorar minhas técnicas, fortalecer minha marca e transformar conhecimento em soluções reais para negócios e projetos digitais.
+Também sou **CEO e fundador da DFT Corporation**, iniciativa própria criada para desenvolver projetos, atender demandas como freelancer, fortalecer minha marca e transformar conhecimento em soluções reais para negócios e projetos digitais.
 
 Sou movido por aprendizado contínuo, evolução prática e pela criação de soluções que unem tecnologia, organização, inovação e experiência do usuário.
 
@@ -68,16 +74,27 @@ Sou movido por aprendizado contínuo, evolução prática e pela criação de so
 ## 🛠️ Stack e Ferramentas
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,git,github,vscode,mysql,androidstudio" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge&logo=progress&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenEdge%20ABL-0052CC?style=for-the-badge&logo=progress&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0f766e?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile-1d4ed8?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Pentaho-FF6600?style=for-the-badge&logo=pentaho&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+- APIs e Integrações
+- Sistemas ERP
+- Arquitetura de Software
+- Interfaces Modernas
+- Soluções Digitais para Negócios
 
 ---
 
@@ -116,10 +133,17 @@ Universidade Santo Amaro (UNISA)
 
 ---
 
+## 📌 Objetivo Profissional
+
+Busco oportunidades para atuar com desenvolvimento de software, contribuindo com dedicação, visão prática, evolução constante e vontade de aprender, enquanto amplio minha experiência em projetos web, mobile, backend e soluções digitais.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Roodriigooo/Roodriigooo/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ---
@@ -161,7 +185,7 @@ Universidade Santo Amaro (UNISA)
 
 ---
 
-## 👀 Profile Views
+## 👀 Visualizações do Perfil
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Roodriigooo&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
