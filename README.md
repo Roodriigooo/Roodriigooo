@@ -142,7 +142,8 @@ Busco oportunidades para atuar com desenvolvimento de software, contribuindo com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roodriigooo" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Roodriigooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
 ---
