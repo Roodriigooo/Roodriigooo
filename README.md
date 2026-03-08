@@ -156,7 +156,7 @@ Universidade Santo Amaro (UNISA)
 ## 🐍 Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Roodriigooo/Roodriigooo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Roodriigooo/Roodriigooo/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 </div>
 
 ---
