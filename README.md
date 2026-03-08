@@ -30,13 +30,15 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor de software e minha jornada na tecnologia começou com **Progress 4GL / OpenEdge ABL**, linguagem que foi minha porta de entrada no desenvolvimento e nos sistemas corporativos.
+Sou desenvolvedor de software e minha jornada na tecnologia começou com Progress 4GL / OpenEdge ABL, linguagem que foi minha porta de entrada no desenvolvimento e nos sistemas corporativos.
 
-Foi através dela que construí minha base em lógica, regras de negócio, testes, validações e rotinas ligadas a ambientes **ERP**. Essa experiência foi muito importante para minha formação profissional e para a forma como enxergo software hoje.
+Foi através dela que comecei a construí minha base em lógica de programação, regras de negócio, testes, validações e rotinas ligadas a ambientes ERP. Essa experiência teve papel fundamental na minha formação profissional e na maneira como enxergo o desenvolvimento de software hoje.
 
-Atualmente, estou ampliando minha atuação para além do ERP, com foco em **desenvolvimento web, frontend, backend e aplicações mobile**, criando projetos próprios e soluções digitais através da **DFT Corporation**, minha marca de atuação freelancer.
+Atualmente, estou expandindo minha atuação para além do universo ERP, com foco em desenvolvimento web, frontend, backend e aplicações mobile, buscando evoluir continuamente e ampliar minha experiência prática na criação de soluções digitais.
 
-Sou movido por aprendizado contínuo, evolução prática e pela criação de soluções que unem tecnologia, organização e experiência do usuário.
+Também sou CEO e fundador da DFT Corporation, uma iniciativa própria que criei para desenvolver projetos, atender demandas como freelancer e, ao mesmo tempo, aprimorar minhas técnicas, fortalecer minha marca e transformar conhecimento em soluções reais para negócios e projetos digitais.
+
+Sou movido por aprendizado contínuo, evolução prática e pela criação de soluções que unem tecnologia, organização, inovação e experiência do usuário.
 
 ---
 
