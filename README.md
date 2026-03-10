@@ -40,20 +40,22 @@
 
 ## 👨‍💻 Sobre Mim
 
-Minha jornada na tecnologia começou com Progress 4GL / OpenEdge ABL, linguagem que foi minha porta de entrada para o desenvolvimento de software e para o contato com sistemas corporativos em ambientes ERP.
+Sou desenvolvedor de software com foco em **desenvolvimento web, backend e aplicações mobile**, criando soluções digitais e projetos próprios voltados para aprendizado, prática e construção de portfólio.
 
-Durante minha experiência na DKP Consultoria e Tecnologia, tive a oportunidade de construir uma base inicial no ambiente corporativo, atuando com atividades de apoio técnico como testes, validações, homologações, pequenas análises de dados e ajustes básicos em rotinas e integrações. Essa experiência foi importante para compreender como sistemas empresariais funcionam na prática e como as áreas de tecnologia se conectam dentro das empresas.
+Minha jornada na tecnologia começou com **Progress 4GL / OpenEdge ABL**, linguagem utilizada em sistemas ERP, que foi minha porta de entrada no desenvolvimento de software e no entendimento de sistemas corporativos.
 
-Atualmente estou em processo contínuo de evolução na área de desenvolvimento, ampliando meus estudos e prática em desenvolvimento web, backend e aplicações mobile.
+Durante minha experiência na **DKP Consultoria e Tecnologia**, tive contato com o ambiente corporativo atuando em atividades como **testes, validações, homologações, análise de dados e apoio em integrações**, experiência que contribuiu para minha base técnica e para a compreensão prática de sistemas empresariais.
 
-Também venho desenvolvendo projetos próprios, sites e aplicações, tanto para aprendizado quanto para construção de portfólio, através da DFT Corporation, minha iniciativa pessoal onde atuo em pequenos projetos e também realizo alguns serviços freelance para amigos, conhecidos ou pequenos negócios que precisam de soluções digitais.
+Atualmente estou ampliando minha atuação para o desenvolvimento de **aplicações web, backend e mobile**, desenvolvendo projetos próprios e explorando novas tecnologias para fortalecer minha experiência prática como desenvolvedor.
 
-Meu objetivo neste momento é ganhar cada vez mais experiência prática na área de tecnologia, contribuindo com dedicação, aprendizado constante e evoluindo profissionalmente dentro do desenvolvimento de software.
+Também sou fundador da **DFT Corporation**, iniciativa pessoal onde desenvolvo projetos digitais, soluções web e aplicações para aprendizado, portfólio e também pequenos serviços freelance para amigos, conhecidos e pequenos negócios.
 
-📍 São Paulo — Jabaquara
-🌐 Site: dft-corporation.netlify.app
-💻 GitHub: github.com/Roodriigooo
-📧 E-mail: rodrigo.software.dev@hotmail.com
+Meu objetivo neste momento é **ganhar cada vez mais experiência prática em desenvolvimento de software**, participar de projetos reais e evoluir profissionalmente dentro da área de tecnologia.
+
+📍 São Paulo — Jabaquara  
+🌐 Site: dft-corporation.netlify.app  
+💻 GitHub: github.com/Roodriigooo  
+📧 E-mail: rodrigo.software.dev@hotmail.com  
 📱 Contato: (11) 94862-3779
 
 ---
