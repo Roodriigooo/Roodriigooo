@@ -178,11 +178,11 @@ Através dela, venho fortalecendo minha experiência prática com desenvolviment
 
 **Pós-graduação em Engenharia de Software**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025 | em andamento
+📅 jan/2025 — dez/2025 | em concluído 
 
 **MBA em Liderança Executiva de TI**  
 Universidade Anhanguera – São Paulo  
-📅 jan/2025 — dez/2025 | em andamento
+📅 jan/2025 — dez/2025 | concluído 
 
 **Análise e Desenvolvimento de Sistemas**  
 Universidade Santo Amaro (UNISA)  
