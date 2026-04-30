@@ -18,102 +18,76 @@
   <img src="https://img.shields.io/badge/Atua%C3%A7%C3%A3o-CEO%20%7C%20Founder%20%7C%20Freelancer-003A8F?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00bfbf&text=Building%20real%20solutions%20with%20code&height=60&fontSize=28&desc=Web%20%7C%20Backend%20%7C%20APIs%20%7C%20ERP&descAlignY=75&descSize=16" />
+</p>
+
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou desenvolvedor de software com foco em **backend, desenvolvimento web, APIs e qualidade de software**, criando soluções digitais e projetos próprios voltados para aprendizado, prática e construção de portfólio.
+Sou desenvolvedor de software com foco em **desenvolvimento web, backend, APIs e qualidade de software**, criando soluções digitais e projetos próprios voltados para aprendizado, prática e construção de portfólio.
 
-Minha jornada começou com **Progress 4GL / OpenEdge ABL**, atuando em sistemas ERP e adquirindo base sólida em lógica de negócio e sistemas corporativos.
+Minha jornada na tecnologia começou com **Progress 4GL / OpenEdge ABL**, linguagem utilizada em sistemas ERP, que foi minha porta de entrada no desenvolvimento de software e no entendimento de sistemas corporativos.
 
-Tenho experiência com:
-- Testes e validações
-- Homologações
-- Análise de dados
-- Integrações de sistemas
-- Testes de APIs REST
+Durante minha experiência na **DKP Consultoria e Tecnologia**, tive contato com o ambiente corporativo atuando em atividades como **testes, validações, homologações, análise de dados e apoio em integrações**, experiência que contribuiu para minha base técnica e para a compreensão prática de sistemas empresariais.
 
-Atualmente estou focado em evoluir como desenvolvedor, trabalhando com tecnologias modernas e fortalecendo minha experiência prática com projetos reais.
+Atualmente estou ampliando minha atuação para o desenvolvimento de **aplicações web, backend e integrações com APIs**, desenvolvendo projetos próprios e explorando novas tecnologias para fortalecer minha experiência prática como desenvolvedor.
 
 ---
 
 ## 🚀 Momento Atual
 
-- 💻 Desenvolvendo projetos **backend e web**
-- 🔗 Trabalhando com **APIs e integrações**
-- ⚙️ Estudando **arquitetura e boas práticas**
-- 🧠 Evoluindo em **QA e validação de sistemas**
-- 🌐 Fortalecendo meu portfólio com projetos próprios
+- 💻 Atuando no desenvolvimento de soluções **web e backend**
+- 🌐 Criando projetos e soluções digitais através da **DFT Corporation**
+- 🧠 Aprimorando minhas técnicas com projetos reais e desafios práticos
+- 🔗 Explorando integrações, APIs e arquitetura de sistemas
+- ⚙️ Desenvolvendo aplicações modernas, funcionais e escaláveis
+- 🚀 Fortalecendo meu portfólio, minha marca e minha presença profissional
 
 ---
 
-## 🛠️ Stack e Ferramentas
+## 🚧 Projetos em Foco
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,git,github,vscode,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs%20REST-111827?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pentaho-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress%204GL-003A8F?style=for-the-badge" />
-</p>
+- 🌐 Desenvolvimento e evolução de soluções digitais pela **DFT Corporation**
+- ⚙️ Construção de projetos com foco em **frontend, backend e integrações**
+- 🚀 Fortalecimento de portfólio, presença profissional e marca pessoal
 
 ---
 
 ## 🧠 Áreas de Interesse
 
-- Backend
-- APIs e Integrações
-- Banco de Dados (SQL)
-- QA e Testes
-- Suporte Técnico
-- Sistemas Corporativos
 - Desenvolvimento Web
+- Desenvolvimento Backend
+- APIs e Integrações
+- Banco de Dados / SQL
+- QA e Testes
+- Sistemas ERP
+- Arquitetura de Software
+- Soluções Digitais para Negócios
 
 ---
 
-## 📍 Objetivo Profissional
+## 📌 Objetivo Profissional
 
-Busco **recolocação na área de tecnologia** como:
-
-- QA Júnior  
-- Analista de Suporte  
-- Desenvolvedor Júnior  
-
-Com foco em evolução prática, aprendizado contínuo e participação em projetos reais.
+Busco oportunidades para atuar com desenvolvimento de software, QA e suporte técnico, contribuindo com dedicação, evolução contínua e visão prática na criação de soluções web, backend e integrações.
 
 ---
 
-## 📬 Contato
+## 📍 Disponibilidade
 
-📍 São Paulo — Jabaquara  
-🌐 https://dft-corporation.netlify.app/  
-💻 https://github.com/Roodriigooo  
-📧 souza.rodrigo11@gmail.com  
-📱 (11) 94862-3779  
+- Aberto a oportunidades na área de tecnologia
+- Interesse em desenvolvimento, QA e suporte técnico
+- Disponível para projetos freelance e oportunidades profissionais
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Roodriigooo&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roodriigooo&layout=compact&theme=tokyonight"/>
+
+### 💼 Software Developer | Backend | Web | APIs | Digital Solutions
+
+**Buscando oportunidades para atuar com desenvolvimento de software, QA, banco de dados e integrações.**
+
+Fique à vontade para conhecer meu site, explorar meus projetos e se conectar comigo no LinkedIn.
+
 </div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Roodriigooo&theme=tokyo-night"/>
-</div>
-
----
-
-## 📢 Disponível para oportunidades
-
-💼 QA Júnior | Suporte | Dev Júnior  
-🚀 Focado em evolução constante e projetos reais
